@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-const apiKey = '053A5FBE-AD2C-4648-9338-D760E3DFA5AA';
+const apiKey = 'Your_Api_Key';
 
 final List<String> currenciesList = [
   'AUD',
